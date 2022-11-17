@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: #9ecdcd;
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+.header {
+    padding: 20px;
+    margin: 50px auto;
+    color: blck;
+    text-align: center;
+    font-family: "Pacifico";
+    font-size: 65px;
+}

@@ -1,0 +1,50 @@
+.form {
+    margin: auto;
+    padding: 20px;
+}
+
+.form__fieldset {
+    border: 10px groove;
+    border-radius: 15px;
+    box-shadow: 20px 10px 6px 6px gray;
+}
+
+.form__fieldset:hover {
+    background-color: aquamarine;
+}
+
+.form__legend {
+    font-size: 230%;
+    font-style: italic;
+
+}
+
+.form__labelText {
+    font-size: 120%;
+    font-style: italic;
+    padding-left: 15px;
+    margin: 15px;
+    display: inline-block;
+}
+
+.form__field {
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    border-style: ridge;
+    display: inline-block;
+    width: 30%;
+
+}
+
+.form__button {
+    padding: 15px;
+    margin: 55px;
+    border-radius: 15px;
+    border-style: ridge;
+    width: 30%;
+}
+
+.form__button:active {
+    background-color: bisque;
+}
