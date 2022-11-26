@@ -13,6 +13,7 @@ html {
     margin: auto;
     overflow: auto;
     resize: both;
+    background-image: url("../images/back.png");
 }
 
 .header {
