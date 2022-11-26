@@ -11,6 +11,9 @@ html {
     max-width: 1000px;
     text-align: center;
     margin: auto;
+    background-image: url("../images/back.png");
+    overflow: auto;
+    resize: both;
 }
 
 .header {
