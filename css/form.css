@@ -9,9 +9,6 @@
     box-shadow: 20px 10px 6px 6px gray;
 }
 
-.form__fieldset:hover {
-    background-color: aquamarine;
-}
 
 .form__legend {
     font-size: 230%;
