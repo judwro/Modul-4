@@ -29,6 +29,7 @@
     border-style: ridge;
     display: inline-block;
     width: 30%;
+    flex-basis: 200px;
 }
 
 .form__button {
@@ -41,4 +42,11 @@
 
 .form__button:active {
     background-color: bisque;
+}
+
+.form__label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
