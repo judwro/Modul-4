@@ -9,11 +9,9 @@
     box-shadow: 20px 10px 6px 6px gray;
 }
 
-
 .form__legend {
     font-size: 230%;
-    font-style: italic;
-
+    font-style: italic
 }
 
 .form__labelText {
@@ -31,7 +29,6 @@
     border-style: ridge;
     display: inline-block;
     width: 30%;
-
 }
 
 .form__button {
